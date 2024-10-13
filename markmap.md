@@ -4,10 +4,10 @@
 ## Conceitos Básicos
 
 ### Introdução à IA
-- [O que é IA e suas derivações](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/i2a2/blob/main/m1_a_introducao_IA.ipynb)
+- [O que é IA e suas derivações](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/f72329f14f903352a5451cfa5b83780ffe92a445/m1_a_introducao_IA.ipynb)
 ### Primeiras Ferramentas
-- Probabilidade
-- Estatística
+- [Probabilidade](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/f72329f14f903352a5451cfa5b83780ffe92a445/m1_b_probabilidade.ipynb)
+- [Estatística](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/f72329f14f903352a5451cfa5b83780ffe92a445/m1_c_estatistica.ipynb)
 - Álgebra Linear
 - Redes Generativas
 
