@@ -1,10 +1,10 @@
 ![Fly](logo_fly.png)
-# <img src="./logo_fly.png" width=20>[ Mulheres in Tech](https://www.flyeducacao.org)
+# <img src="./images/logo_fly.png" width=20>[ Mulheres in Tech](https://www.flyeducacao.org)
 
 ## Conceitos Básicos
 
 ### Introdução à IA
-- O que é IA e suas derivações
+- [O que é IA e suas derivações](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/i2a2/blob/main/m1_a_introducao_IA.ipynb)
 ### Primeiras Ferramentas
 - Probabilidade
 - Estatística
