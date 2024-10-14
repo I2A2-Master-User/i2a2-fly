@@ -9,7 +9,7 @@
 - [Probabilidade](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m1_b_probabilidade.ipynb)
 - [Estatística](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m1_c_estatistica.ipynb)
 - [Álgebra Linear](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m1_d_algebralinear.ipynb)
-- Redes Generativas
+- [Redes Generativas](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m1_e_redes_generativas.ipynb)
 
 ## Preparando seus dados
 - Python - Introdução à Linguagem Python
