@@ -15,11 +15,11 @@
 ## Preparando seus dados
 - [Python - Introdução à Linguagem Python](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_a_python.ipynb)
 - [Jupyter Notebooks e bibliotecas](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_b_Jupyter.ipynb)
-- [Extra: Python e Jupyer Intermediário](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_c_python_inter.ipynb)
+- [Extra: Python e Jupyter Intermediário](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_c_python_inter.ipynb)
 - [CRISP-DM](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_d_crisp_dm.ipynb)
 - [Ferramentas No Code e Low Code](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_e_orange.ipynb)
-- [Qualidade de dados](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_f_prepdados_p1.ipynb)
-- [Preparação de dados](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_g_prepdados_p2.ipynb)
+- [Qualidade de dados](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_f_prep_dados_p1.ipynb)
+- [Preparação de dados](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_g_prep_dados_p2.ipynb)
 - [Desafio 2](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m2_h_desafio.ipynb)
 
 ## Machine Learning Clássico
