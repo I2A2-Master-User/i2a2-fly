@@ -25,14 +25,14 @@
 ## Machine Learning Clássico
 - [Aprendizado supervisionado](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_a_aprend_super.ipynb)
 - [Aprendizado não supervisionado](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_b_aprend_nao_super.ipynb)
-- [Como as máquinas classificam dados](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_c_class_agrrup.ipynb)
+- [Como as máquinas classificam dados](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_c_class_agrup.ipynb)
 - [Como as máquinas preveem valores](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_d_regressao.ipynb)
 - [Redes Neurais Clássicas](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_e_redes_neurais.ipynb)
 - [Desafio 3](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_f_desafio.ipynb)
 
 ## Séries Temporais
-- [Séries temporais](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m4_a_series_temporais_desafio.ipynb)
-- [Ferramentas para tratamento de séries temporais](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m4_b_autoML.ipynb)
+- [Séries temporais](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m4_a_series_temporais.ipynb)
+- [Ferramentas para tratamento de séries temporais](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m4_b_AutoML.ipynb)
 - [Desafio 4](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m4_c_desafio.ipynb)
 
 ## Material Adicional
