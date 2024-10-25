@@ -36,4 +36,7 @@
 - [Desafio 4](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m4_c_desafio.ipynb)
 
 ## Material Adicional
+- [Álgebra Linear com Python](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_algebra_linear.ipynb)
+- [Redução de Dimensionanidade](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_reduc_dimens.ipynb)
+- [PCA na Mão e no Python](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_PCA_na_mao_e_no_Python.ipynb)
 
