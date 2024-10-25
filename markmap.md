@@ -32,7 +32,7 @@
 
 ## Séries Temporais
 - [Séries temporais](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m4_a_series_temporais_desafio.ipynb)
-- [Ferramentas para tratamento de séries temporais](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m4_b_auto_ML.ipynb)
+- [Ferramentas para tratamento de séries temporais](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m4_b_autoML.ipynb)
 - [Desafio 4](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m4_c_desafio.ipynb)
 
 ## Material Adicional
