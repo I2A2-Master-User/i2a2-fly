@@ -27,7 +27,7 @@
 - [Aprendizado não supervisionado](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_b_aprend_nao_super.ipynb)
 - [Como as máquinas classificam dados](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_c_class_agrup.ipynb)
 - [Como as máquinas preveem valores](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_d_regressao.ipynb)
-- [Redes Neurais Clássicas](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_e_redes_neurais.ipynb)
+- [Redes neurais clássicas](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_e_redes_neurais.ipynb)
 - [Desafio 3](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/m3_f_desafio.ipynb)
 
 ## Séries Temporais
@@ -37,6 +37,13 @@
 
 ## Material Adicional
 - [Álgebra Linear com Python](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_algebra_linear.ipynb)
-- [Redução de Dimensionanidade](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_reduc_dimens.ipynb)
+- [Álgebra Linear com Numpy](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_Numpy_Algebra_Linear.ipynb)
+- [Redução de Dimensionalidade](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_reduc_dimens.ipynb)
 - [PCA na Mão e no Python](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_PCA_na_mao_e_no_Python.ipynb)
+- [Aprendizado por Reforço](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_aprendizado_por_reforco.ipynb)
+- [Deep Learning, parte 1](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_deep_learning_I.ipynb)
+- [Deep Learning, parte 2](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_deep_learning_II.ipynb)
+- [Visão Computacional](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_visao_computacional.ipynb)
+- [NLP](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_nlp.ipynb)
+
 
