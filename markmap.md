@@ -45,5 +45,5 @@
 - [Deep Learning, parte 2](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_deep_learning_II.ipynb)
 - [Visão Computacional](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_visao_computacional.ipynb)
 - [NLP](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_nlp.ipynb)
-
+- [Machine Learning - Um Exemplo](https://nbviewer.org/github/I2A2-Master-User/i2a2-fly/blob/main/extra_ML_um_exemplo.ipynb)
 
